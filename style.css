@@ -9,7 +9,7 @@
 #title {
     background: yellow;
     /*add CSS here*/
-    margin: 20px 100px 20px;
+    margin: 0px 100px 10px;
     padding: 20px 50px;
 }
 
@@ -28,4 +28,6 @@
     margin: 60px;
     padding: 2px 5px;
 }
-
+body {
+    padding: 10px;
+}
